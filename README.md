@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**carlosguerradev/carlosguerradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi There! 👋</h1>
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-guerra-4aa82714a/)](https://www.linkedin.com/in/carlos-guerra-4aa82714a/)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.carlosguerra.dev/)](https://carlosguerra.dev/)
+[![Gmail Badge](https://img.shields.io/badge/-carlosguerradevofc@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosguerradevofc@gmail.com)](mailto:carlosguerradevofc@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="Code Boy image" src="https://www.carlosguerra.dev/images/header.png"  width="400px"/>
+
+## My name is Carlos Guerra
+(<!-- React JS | Next JS | Angular  |  --> Javascript | HTML | CSS <!-- | Typescript --> | Java | .Lua ) 🚀
+<!-- - 👩‍💻 Software Enginner @[Itaú](https://www.itau.com.br/) -->
+- 🎓 Systems Analyst Student
+- 🎥 Tech content producer, I create programming tutorials on my [YouTube Channel](https://www.youtube.com/@carlosguerradev) and share informative content on my [Instagram](https://www.instagram.com/carlosguerra_ofc/).
+- 🌐 Passionate about web development and Systems Analysis and Development
+- 💡 Love a good challenge
+
+<div align="left">
+  
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosguerradev&theme=blue-whit)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
+
