@@ -1,9 +1,9 @@
 
 <h1>Hi There! 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-guerra-4aa82714a/)](https://www.linkedin.com/in/carlos-guerra-4aa82714a/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.carlosguerra.dev/)](https://carlosguerra.dev/)
-[![Gmail Badge](https://img.shields.io/badge/-carlosguerradevofc@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosguerradevofc@gmail.com)](mailto:carlosguerradevofc@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-guerra-4aa82714a/)](https://www.linkedin.com/in/carlos-guerra-4aa82714a/)
+[![Personal Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://www.carlosguerra.dev/)](https://carlosguerra.dev/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:carlosguerradevofc@gmail.com)](mailto:carlosguerradevofc@gmail.com)
 
 <img align="right" alt="Code Boy image" src="https://www.carlosguerra.dev/images/header.png"  width="400px"/>
 
