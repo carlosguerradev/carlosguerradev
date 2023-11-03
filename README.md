@@ -22,3 +22,9 @@
   
  </div>
 
+ PERSONALISE SEU PERFIL DO GITHUB
+- [Repositório do meu perfil](https://github.com/carlosguerradev/carlosguerradev)<BR/>
+- [Repositório do Github Stats](https://github.com/anuraghazra/github-readme-stats)<BR/>
+- [Site de Badges](https://dev.to/envoy_/150-badges-for-github-pnk)<BR/>
+- [Emojis](https://emojipedia.org/)
+
