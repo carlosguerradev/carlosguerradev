@@ -16,8 +16,9 @@
 - 💡 Love a good challenge
 
 <div align="left">
-  
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosguerradev&theme=blue-whit)](https://github.com/anuraghazra/github-readme-stats)
+
+![Guerra GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosguerradev&show_icons=true&theme=transparent)
+[![Guerra top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosguerradev&theme=blue-whit)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
 
