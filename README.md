@@ -18,7 +18,8 @@
 <div align="left">
 
 ![Guerra GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosguerradev&show_icons=true&theme=transparent)
-[![Guerra top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosguerradev&theme=blue-whit)](https://github.com/anuraghazra/github-readme-stats)
+[![Guerra top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosguerradev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Guerra Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosguerradev&layout=compact&theme=dark)
   
  </div>
 
