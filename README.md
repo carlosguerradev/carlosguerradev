@@ -20,7 +20,7 @@
 <h2>STATS:</h2>
 </br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MixZira&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=1124&exclude_days=Sun%2CSat&border_radius=8&border=1E2228)](https://github.com/carlosguerradev)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosguerradev&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=1124&exclude_days=Sun%2CSat&border_radius=8&border=1E2228)](https://github.com/carlosguerradev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosguerradev&layout=compact&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228)](https://github.com/carlosguerradev)
 [![Carlos Guerra's github stats](https://github-readme-stats.vercel.app/api?username=carlosguerradev&count_private=true&show_icons=true&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228)](https://github.com/carlosguerradev)
   
