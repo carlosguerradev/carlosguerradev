@@ -8,12 +8,25 @@
 <img align="right" alt="Code Boy image" src="https://www.carlosguerra.dev/images/header.png"  width="400px"/>
 
 ## My name is Carlos Guerra
-(<!-- React JS | Next JS | Angular  |  --> Javascript | HTML | CSS <!-- | Typescript --> | Java | .Lua ) 🚀
 <!-- - 👩‍💻 Software Enginner @[Itaú](https://www.itau.com.br/) -->
 - 🎓 Systems Analyst Student
 - 🎥 Tech content producer, I create programming tutorials on my [YouTube Channel](https://www.youtube.com/@carlosguerradev) and share informative content on my [Instagram](https://www.instagram.com/carlosguerra_ofc/).
 - 🌐 Passionate about web development and Systems Analysis and Development
 - 💡 Love a good challenge
+<h2> SKILLS: </h2>
+<a href='https://github.com/carlosguerradev'><img width ='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg'></a>
+<a href='https://github.com/carlosguerradev'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg'></a>
+<a href='https://github.com/carlosguerradev'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg'></a>
+<a href='https://github.com/carlosguerradev'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg'></a>
+<a href='https://github.com/carlosguerradev'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg'></a>
+<a href='https://github.com/carlosguerradev'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg'></a>
+<a href='https://github.com/carlosguerradev'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg'></a>
+<a href='https://github.com/carlosguerradev'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'></a>
+<!-- <a href='https://github.com/carlosguerradev'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg'></a> -->
+<!-- <a href='https://github.com/carlosguerradev'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'></a> -->
+<a href='https://github.com/carlosguerradev'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg'></a>
+<a href='https://github.com/carlosguerradev'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg'></a>
+<a href='https://github.com/carlosguerradev'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg'></a>
 
 <div align="left">
 
